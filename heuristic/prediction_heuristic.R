@@ -1,7 +1,4 @@
-library(fable)
-library(fable.prophet)
-library(fabletools)
-library(dplyr)
+library(tidyverse)
 library(tsibble)
 
 #' Runs the simulation.
