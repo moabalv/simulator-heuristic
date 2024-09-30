@@ -4,7 +4,7 @@ library(fabletools)
 library(dplyr)
 library(tsibble)
 
-#' Runs the simulation
+#' Runs the simulation.
 #'
 #'@param demands data frame with start_date and num_instances columns
 #'@param window prediction window in hours
